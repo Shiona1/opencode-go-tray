@@ -22,6 +22,9 @@ All notable changes to this project are documented here. The format follows
 - `build.ps1` (in-box `csc.exe`), `install.ps1`, `uninstall.ps1`,
   `tools\make-icon.ps1`, CI build and release workflows.
 - `--shot` and `--open` developer flags.
+- Bilingual READMEs (English and Russian) with a language switcher.
+- Prominent non-affiliation note in both READMEs, as requested by the OpenCode
+  README policy for projects that use "opencode" in their name.
 
 ### Notes
 

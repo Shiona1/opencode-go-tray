@@ -1,6 +1,10 @@
 # OpenCode Go Tray
 
+**English** · [Русский](README.ru.md)
+
 Unofficial Windows tray widget that shows how much of your **OpenCode Go** subscription allowance is used — always visible, one click away from the details.
+
+> **Not built by the OpenCode team.** This is an independent, unofficial project. It is not created, endorsed or maintained by the OpenCode team and is **not affiliated with them in any way**. The name "OpenCode" is used only to describe which service the widget reads data from.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0a7cd6)
 ![Runtime](https://img.shields.io/badge/.NET%20Framework-4.8-512bd4)
@@ -78,7 +82,7 @@ The key is read from `%USERPROFILE%\.local\share\opencode\auth.json` (provider `
 
 The endpoint is undocumented and may change without notice. The widget degrades gracefully: it keeps the last known values and shows a warning in the popup and tooltip.
 
-This project is **not affiliated with OpenCode / Anomaly**. It is a personal convenience tool.
+As stated at the top of this README: this widget is not built by the OpenCode team and is not affiliated with it in any way. It is a personal convenience tool.
 
 ## Privacy
 
