@@ -1,0 +1,17 @@
+# Build output
+dist/
+package/
+*.exe
+*.zip
+
+# Local artifacts
+preview*.png
+!screenshots/*.png
+*.user
+*.suo
+.vs/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
